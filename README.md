@@ -1,6 +1,6 @@
 # (WORK IN PROGRESS) Numerical-Analysis-2.1
 Various numerical analysis algorithms for eigenvalues and eigenvectors finding. Specifically:
-1. Implementation of power method and varioations:
+1. Implementation of power method and variations
 2. QR factorization method for eigenvalues
 3. Computation of singular values decomposition for eigenvalues/eigevectors
 
