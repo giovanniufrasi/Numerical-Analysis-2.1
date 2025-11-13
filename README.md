@@ -4,7 +4,7 @@ Various numerical analysis algorithms for eigenvalues and eigenvectors finding. 
 2. QR factorization method for eigenvalues
 3. Computation of singular values decomposition for eigenvalues/eigevectors
 
-## 1. EIGENVALUES/EIGENVECTORS FINDING
+## 1. Eigenvalues/eigenvectors finding
 ### `mod_eigen_findind`, `script_eigen_finding`
 Implementation of power method 
     - Standard powers method
@@ -12,8 +12,8 @@ Implementation of power method
     - Inverse matrix method variant of power method
     - Aitken applied to standard powers method to accelerate convergence
 
-## 2. QR METHOD FOR DISTINCT EIGEVALUES AND GENERALIZATION
+## 2. QR method for distinct eigenvalues and generalization
 ### `mod_eigen_QR`, `script_eigen_QR`
 
-## 3. FINDING SINGULAR VALUES AND CALCULATING SVD
+## 3. Finding singular values and calculating SVD
 ### `mod_SVD`, `script_SVD`
